@@ -1,0 +1,12 @@
+node_modules/
+bower_components/
+dist/
+out/
+build/
+
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+
